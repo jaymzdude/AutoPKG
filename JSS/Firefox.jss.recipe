@@ -10,11 +10,11 @@
         <key>Input</key>
         <dict>
             <key>NAME</key>
-            <string>Firefox</string>
+            <string>ISEM - Firefox - Latest Version</string>
             <key>CATEGORY</key>
-            <string>Web Browsers and Internet Utilities</string>
+            <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_CATEGORY</key>
-            <string>Testing</string>
+            <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
             <key>ICON</key>
@@ -22,9 +22,9 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
             <key>GROUP_NAME</key>
-            <string>%NAME%-update-smart</string>
+            <string>ISEM - AutoPKG Testing</string>
             <key>DESCRIPTION</key>
-            <string>Web Browser.</string>
+            <string>Web Browser</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.4.0</string>
