@@ -7,7 +7,7 @@
     <is_smart>false</is_smart>
     <!-- <is_smart>true</is_smart>
     <criteria>
-        <!-- <criterion>
+       <criterion>
             <name>Application Title</name>
             <priority>0</priority>
             <and_or>and</and_or>
