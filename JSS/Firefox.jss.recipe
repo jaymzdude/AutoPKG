@@ -10,7 +10,7 @@
         <key>Input</key>
         <dict>
             <key>NAME</key>
-            <string>ISEM - Firefox - Latest Version</string>
+            <string>Firefox</string>
             <key>CATEGORY</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_CATEGORY</key>
