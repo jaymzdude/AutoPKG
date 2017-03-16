@@ -1,13 +1,13 @@
 <computer_group>
-    <!-- Enable ID or Name for a Site-based Group
     <site>
-        <id>%site_id%</id>
-        <name>%site_name%</name>
-    </site> -->
-    <name>%group_name%</name>
-    <is_smart>true</is_smart>
+         <!-- <id>%site_id%</id> -->
+        <name>ISEM - Test Site</name>
+    </site>
+    <name>ISEM - AutoPKG Testing</name>
+    <is_smart>false</is_smart>
+    <!-- <is_smart>true</is_smart> -->
     <criteria>
-        <criterion>
+        <!-- <criterion>
             <name>Application Title</name>
             <priority>0</priority>
             <and_or>and</and_or>
@@ -20,12 +20,12 @@
             <and_or>and</and_or>
             <search_type>is not</search_type>
             <value>%VERSION%</value>
-        </criterion>
+        </criterion> -->
         <criterion>
             <name>Computer Group</name>
             <priority>2</priority>
             <and_or>and</and_or>
             <search_type>member of</search_type>
-            <value>Testing</value>
+            <value>ISEM - AutoPKG Testing</value>
         </criterion>
     </criteria>
