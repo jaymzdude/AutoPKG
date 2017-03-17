@@ -8,8 +8,8 @@
         <string>com.github.jaymzdude.jss.Firefox</string>
         <key>Input</key>
         <dict>
-            <site>
-            <key>ISEM - Test Site<key>
+            <key>SITE</key>
+            <string>ISEM - Test Site</string>
             <key>NAME</key>
             <string>Firefox</string>
             <key>CATEGORY</key>
