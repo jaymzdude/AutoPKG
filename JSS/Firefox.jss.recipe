@@ -38,8 +38,6 @@
                 <dict>  
                     <key>prod_name</key>
                     <string>%NAME%</string>
-                    <key>SITE</key>
-                    <string>%SITE%</string>  
                     <key>category</key>
                     <string>%CATEGORY%</string>
                     <key>policy_category</key>
@@ -54,6 +52,8 @@
                     <array>
                         <dict>
                             <key>name</key>
+                            <key>SITE</key>
+                            <string>%SITE%</string> 
                             <string>%GROUP_NAME%</string>
                             <key>smart</key>
                             <true/>
