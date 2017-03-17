@@ -8,8 +8,6 @@
         <string>com.github.jaymzdude.jss.Firefox</string>
         <key>Input</key>
         <dict>
-            <key>SITE</key>
-            <string>ISEM - Test Site</string>
             <key>NAME</key>
             <string>Firefox</string>
             <key>CATEGORY</key>
@@ -35,9 +33,7 @@
         <array>
             <dict>
                 <key>Arguments</key>
-                <dict>
-                <key>SITE</key>
-                <string>%SITE%</string>                
+                <dict>              
                     <key>prod_name</key>
                     <string>%NAME%</string>
                     <key>category</key>
