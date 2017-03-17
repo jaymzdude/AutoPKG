@@ -8,7 +8,9 @@
         <string>com.github.jaymzdude.jss.Firefox</string>
         <key>Input</key>
         <dict>
+            <site>SITE</site>
             <key>NAME</key>
+            <string>ISEM - Test Site</string>
             <string>Firefox</string>
             <key>CATEGORY</key>
             <string>ISEM - AutoPKG Testing</string>
