@@ -35,7 +35,9 @@
         <array>
             <dict>
                 <key>Arguments</key>
-                <dict>              
+                <dict>
+                    <key>SITE</key>
+                    <string>%SITE%</string>               
                     <key>prod_name</key>
                     <string>%NAME%</string>
                     <key>category</key>
