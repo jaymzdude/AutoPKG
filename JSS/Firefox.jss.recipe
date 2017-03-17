@@ -35,11 +35,11 @@
         <array>
             <dict>
                 <key>Arguments</key>
-                <dict>
-                    <key>SITE</key>
-                    <string>%SITE%</string>               
+                <dict>  
                     <key>prod_name</key>
                     <string>%NAME%</string>
+                    <key>SITE</key>
+                    <string>%SITE%</string>  
                     <key>category</key>
                     <string>%CATEGORY%</string>
                     <key>policy_category</key>
