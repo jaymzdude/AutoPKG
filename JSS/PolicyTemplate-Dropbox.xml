@@ -6,8 +6,6 @@
         </site>
         <name>ISEM - Install %PROD_NAME% %VERSION%</name>
         <enabled>true</enabled>
-        <trigger_checkin>true</trigger_checkin>
-
         <frequency>Ongoing</frequency>
         <category>
             <name>%POLICY_CATEGORY%</name>
