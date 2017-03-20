@@ -4,7 +4,7 @@
             <!-- <id>%SITE_ID%</id> -->
             <name>ISEM - Test Site</name>
         </site>
-        <name>Install %PROD_NAME% %VERSION%</name>
+        <name>ISEM - Install %PROD_NAME% %VERSION%</name>
         <enabled>true</enabled>
         <frequency>Ongoing</frequency>
         <category>
