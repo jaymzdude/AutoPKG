@@ -40,6 +40,8 @@
                     <string>%version%</string>
                     <key>prod_name</key>
                     <string>%NAME%</string>
+                    <key>DISPLAYNAME</key>
+                    <string>%NAME%-%version%</string>
                     <key>category</key>
                     <string>%CATEGORY%</string>
                     <key>policy_category</key>
