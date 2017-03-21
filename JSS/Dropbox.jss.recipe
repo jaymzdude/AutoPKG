@@ -11,7 +11,7 @@
             <key>SITE</key>
             <string>ISEM - Test Site</string>
             <key>NAME</key>
-            <string>Dropbox %VERSION%</string>
+            <string>Dropbox</string>
             <key>CATEGORY</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_CATEGORY</key>
@@ -39,7 +39,7 @@
                     <key>version</key>
                     <string>%version%</string>
                     <key>prod_name</key>
-                    <string>%NAME%</string>
+                    <string>%NAME% %VERSION%</string>
                     <key>category</key>
                     <string>%CATEGORY%</string>
                     <key>policy_category</key>
