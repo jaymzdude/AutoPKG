@@ -12,6 +12,8 @@
             <string>ISEM - Test Site</string>
             <key>NAME</key>
             <string>Dropbox</string>
+            <key>displayname</key>
+            <string>%NAME%-%VERSION%</string>
             <key>CATEGORY</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_CATEGORY</key>
