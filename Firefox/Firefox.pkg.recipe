@@ -64,7 +64,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>ISEM-AutoPKG-%NAME%</string>
+                <string>All-%NAME%-%version%</string>
                 <key>pkg_request</key>
                 <dict>
                     <key>pkgdir</key>
