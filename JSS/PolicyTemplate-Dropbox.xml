@@ -2,9 +2,9 @@
     <general>
         <site>
             <!-- <id>%SITE_ID%</id> -->
-            <name>ISEM - Test Site</name>
+            <name>IS Endpoint Management</name>
         </site>
-        <name>ISEM - Install %PROD_NAME% %VERSION%</name>
+        <name>ISEM - Install Latest %PROD_NAME%</name>
         <enabled>true</enabled>
         <trigger>USER_INITIATED</trigger>
         <!-- <trigger_checkin>true</trigger_checkin> -->
