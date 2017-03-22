@@ -21,7 +21,7 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/Dropbox.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate-Template.xml</string>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-Dropbox.xml</string>
             <key>GROUP_NAME</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>DESCRIPTION</key>
