@@ -1,7 +1,7 @@
 <computer_group>
     <site>
          <!-- <id>%site_id%</id> -->
-        <name>IS Endpoint Management</name>
+        <name>IS Endpoint Management - Labs</name>
     </site>
     <name>ISEM - AutoPKG Testing</name>
     <is_smart>false</is_smart>
