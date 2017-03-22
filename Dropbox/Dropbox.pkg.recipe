@@ -62,7 +62,7 @@
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>All-%NAME%-%version%</string>
+                <string>AutoPKG-%NAME%-%version%</string>
                 <key>pkg_request</key>
                 <dict>
                     <key>pkgdir</key>
