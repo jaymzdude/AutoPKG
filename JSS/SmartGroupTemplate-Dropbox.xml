@@ -3,7 +3,7 @@
          <!-- <id>%site_id%</id> -->
         <name>IS Endpoint Management - Labs</name>
     </site>
-    <name>ISEM - AutoPKG Testing</name>
+    <name>ISEM - AutoPKG For Realz</name>
     <is_smart>false</is_smart>
     <!-- <is_smart>true</is_smart>
     <criteria>
