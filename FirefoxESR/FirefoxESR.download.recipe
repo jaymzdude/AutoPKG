@@ -2,19 +2,31 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Description</key>
-	<string>Downloads the latest version of Mozilla Firefox ESR for Mac.</string>
-	<key>Identifier</key>
-	<string>com.github.jaymzdude.download.FirefoxESR</string>
-	<key>Input</key>
-	<dict>
-		<key>NAME</key>
-		<string>FirefoxESR</string>
-		<key>DOWNLOAD_URL</key>
-    <string>https://download.mozilla.org/?product=firefox-esr-latest&amp;os=osx&amp;lang=en-US</string>
-	</dict>
-	<!-- <key>ParentRecipe</key>
+    <key>Description</key>
+    <string>Downloads the latest version of Mozilla Firefox ESR for Mac.</string>
+    <key>Identifier</key>
+    <string>com.github.jaymzdude.download.FirefoxESR</string>
+    <key>Input</key>
+    <dict>
+        <key>RELEASE</key>
+        <string>latest-esr</string>
+        <key>LOCALE</key>
+        <string>en-US</string>
+	<key>NAME</key>
+        <string>FirefoxESR</string>
+        <key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        <false />            
+	    
+	<!-- Commenting this section out because it was in another esr download recipe that didn't work - will eventually remove.
+	<key>DOWNLOAD_URL</key>
+        <string>https://download.mozilla.org/?product=firefox-esr-latest&amp;os=osx&amp;lang=en-US</string> -->
+	    
+    </dict>
+	
+	<!-- Commenting this out because it was in another esr download recipe that didn't work - will eventually remove.
+	<key>ParentRecipe</key>
 	<string>com.github.autopkg.download.firefox-rc-en_US</string> -->
+	
     <key>MinimumVersion</key>
     <string>0.4.1</string>
     <key>Process</key>
