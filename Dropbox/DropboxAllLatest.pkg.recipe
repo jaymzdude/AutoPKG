@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest Dropbox and creates a package.</string>
+    <string>Downloads the latest Dropbox and creates a package with a filename in the format of "All-APPLICATION-Latest".</string>
     <key>Identifier</key>
     <string>com.github.jaymzdude.pkg.DropboxAllLatest</string>
     <key>Input</key>
