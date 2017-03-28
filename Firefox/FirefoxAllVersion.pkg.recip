@@ -6,7 +6,7 @@
     <key>Description</key>
     <string>Downloads Firefox disk image and builds a package with a filename in the format of "All-APPLICATION-VERSION".</string>
     <key>Identifier</key>
-    <string>com.github.jaymzdude.pkg.Firefox</string>
+    <string>com.github.jaymzdude.pkg.FirefoxAllVersion</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
