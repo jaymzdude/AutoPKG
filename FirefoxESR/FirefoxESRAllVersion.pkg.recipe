@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads Firefox disk image and builds a package with a filename in the format of "All-APPLICATION-Latest".</string>
+    <string>Downloads Firefox disk image and builds a package with a filename in the format of "All-APPLICATION-VERSION".</string>
     <key>Identifier</key>
     <string>com.github.jaymzdude.pkg.FirefoxESRAllVersion</string>
     <key>Input</key>
