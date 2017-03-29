@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest Silverlight installer and copies the package to the build directory with a filename in the format of "All-APPLICATION-Latest"..</string>
+    <string>Downloads latest Silverlight installer and copies the package to the build directory with a filename in the format of "All-APPLICATION-VERSION".</string>
     <key>Identifier</key>
     <string>com.github.jaymzdude.pkg.SilverlightAllVersion</string>
     <key>Input</key>
