@@ -8,14 +8,14 @@
     <string>com.github.jaymzdude.download.FirefoxESR</string>
     <key>Input</key>
     <dict>
-        <key>RELEASE</key>
+<!--        <key>RELEASE</key>
         <string>latest-esr</string>
         <key>LOCALE</key>
-        <string>en-US</string>
+        <string>en-US</string> -->
 	<key>NAME</key>
         <string>FirefoxESR</string>
-        <key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
-        <false />            	   
+<!--        <key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        <false /> -->            	   
 	<key>DOWNLOAD_URL</key>
         <string>https://download.mozilla.org/?product=firefox-esr-latest&amp;os=osx&amp;lang=en-US</string> 	    
     </dict>
@@ -24,13 +24,15 @@
     <key>Process</key>
     <array>
         <dict>
-            <key>Arguments</key>
+            <key>Processor</key>
+            <string>URLDownloader</string>
+	    <key>Arguments</key>
             <dict>
+	        <key>url</key>
+		<string>%DOWNLOAD_URL%</string>
                 <key>filename</key>
                 <string>%NAME%.dmg</string>
             </dict>
-            <key>Processor</key>
-            <string>URLDownloader</string>
         </dict>
         <dict>
             <key>Processor</key>
