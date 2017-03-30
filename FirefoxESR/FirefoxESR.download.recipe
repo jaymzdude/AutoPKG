@@ -15,35 +15,14 @@
 	<key>NAME</key>
         <string>FirefoxESR</string>
         <key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
-        <false />            
-	    
-
+        <false />            	   
 	<key>DOWNLOAD_URL</key>
-        <string>https://download.mozilla.org/?product=firefox-esr-latest&amp;os=osx&amp;lang=en-US</string> 
-	    
+        <string>https://download.mozilla.org/?product=firefox-esr-latest&amp;os=osx&amp;lang=en-US</string> 	    
     </dict>
-	
-	<!-- Commenting this out because it was in another esr download recipe that didn't work - will eventually remove.
-	<key>ParentRecipe</key>
-	<string>com.github.autopkg.download.firefox-rc-en_US</string> -->
-	
     <key>MinimumVersion</key>
     <string>0.4.1</string>
     <key>Process</key>
     <array>
-        <!-- <dict>
-            <key>Arguments</key>
-            <dict>
-                <key>product_name</key>
-                <string>firefox</string>
-                <key>release</key>
-                <string>%RELEASE%</string>
-                <key>locale</key>
-                <string>%LOCALE%</string>
-            </dict>
-                <key>Processor</key>
-                <string>MozillaURLProvider</string>
-        </dict> -->
         <dict>
             <key>Arguments</key>
             <dict>
