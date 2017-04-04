@@ -28,7 +28,7 @@
                 <key>re_pattern</key>
                 <string>(?P&lt;url_fragment&gt;//.*?dmg)</string>
                 <key>result_output_var_name</key>
-                <string>(VLC-web*?.*?dmg)</string>
+                <string>(?P;VLC-web*?.*?dmg)</string>
             </dict>
         </dict>
         <dict>
