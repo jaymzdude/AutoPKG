@@ -24,7 +24,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>http://get.videolan.org/vlc/last/macosx/</string>
+                <string>http://get.videolan.org/vlc/last/macosx</string>
                 <key>re_pattern</key>
                 <string>(?P&lt;url_fragment&gt;//VLC-web*?.*?dmg)</string>
             </dict>
