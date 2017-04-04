@@ -26,7 +26,7 @@
                 <key>url</key>
                 <string>http://get.videolan.org/vlc/last/macosx/</string>
                 <key>re_pattern</key>
-                <string>(?P&lt;url_fragment&gt;//VLC-web*.*?dmg)</string>
+                <string>(?P&lt;url_fragment&gt;//VLC-web*?.*?dmg)</string>
             </dict>
         </dict>
         <dict>
