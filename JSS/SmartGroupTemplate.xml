@@ -5,6 +5,13 @@
     </site>
     <name>ISEM - AutoPKG Testing</name>
     <is_smart>false</is_smart>
+         <!-- <id>%site_id%</id> -->
+    <site>
+        <name>IS Endpoint Management</name>
+    </site>
+    <name>ISEM - AutoPKG Testing - PROD</name>
+    <is_smart>false</is_smart>    
+    
     <!-- <is_smart>true</is_smart>
     <criteria>
        <criterion>
