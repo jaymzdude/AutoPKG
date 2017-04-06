@@ -30,8 +30,7 @@
         <key>MinimumVersion</key>
         <string>0.4.0</string>
         <key>ParentRecipe</key>
-        <string>local.pkg.testFirefox</string>
-        <!-- <string>com.github.jaymzdude.pkg.Firefox</string> -->
+        <string>com.github.jaymzdude.pkg.Firefox</string>
         <key>Process</key>
         <array>
             <dict>
