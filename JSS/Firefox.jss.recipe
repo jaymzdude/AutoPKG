@@ -23,7 +23,7 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
             <key>GROUP_NAME</key>
-            <string>ISEM - AutoPKG Testing</string>
+            <string>ISEM - AutoPKG Smart Testing</string>
             <key>DESCRIPTION</key>
             <string>Web Browser</string>
         </dict>
