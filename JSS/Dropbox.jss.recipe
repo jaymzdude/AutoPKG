@@ -21,7 +21,7 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/Dropbox.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+            <string>%RECIPE_DIR%/StaticGroupTemplate.xml</string>
             <key>GROUP_NAME</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>DESCRIPTION</key>
@@ -30,7 +30,7 @@
         <key>MinimumVersion</key>
         <string>0.4.0</string>
         <key>ParentRecipe</key>
-        <string>com.github.jaymzdude.pkg.DropboxAllVersion</string>
+        <string>com.github.autopkg.pkg.dropbox</string>
         <key>Process</key>
         <array>
             <dict>
