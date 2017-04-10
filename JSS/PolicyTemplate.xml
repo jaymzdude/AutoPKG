@@ -9,6 +9,7 @@
         <trigger>USER_INITIATED</trigger>
         <trigger_checkin>false</trigger_checkin>
         <frequency>Ongoing</frequency>
+        <!-- <frequency>Once per computer</frequency> -->
         <category>
             <name>%POLICY_CATEGORY%</name>
         </category>
