@@ -1,9 +1,9 @@
 <computer_group>
     <site>
          <!-- <id>%site_id%</id> -->
-        <name>%group_name%</name>
+        <name>ISEM - Test Site</name>
     </site>
-    <name>ISEM - AutoPKG Smart Testing</name>
+    <name>%group_name%</name>
     <is_smart>true</is_smart>
     <criteria>
        <criterion>
