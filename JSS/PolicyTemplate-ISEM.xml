@@ -4,7 +4,7 @@
             <!-- <id>%SITE_ID%</id> -->
             <name>IS Endpoint Management - Labs</name>
         </site>
-        <name>Install Latest %PROD_NAME%</name>
+        <name>ISEM - Install Latest %PROD_NAME%</name>
         <enabled>true</enabled>
         <trigger>USER_INITIATED</trigger>
         <trigger_checkin>false</trigger_checkin>
