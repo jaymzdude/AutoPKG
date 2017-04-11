@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the most recent Firefox ESR disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.jaymzdude.pkg.FirefoxESRAllVersion</string>
+    <string>com.github.jaymzdude.pkg.FirefoxESR</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
