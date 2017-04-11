@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads Firefox disk image and builds a package with a filename in the format of "All-APPLICATION-VERSION".</string>
+    <string>Downloads the most recent Firefox ESR disk image and builds a package.</string>
     <key>Identifier</key>
     <string>com.github.jaymzdude.pkg.FirefoxESRAllVersion</string>
     <key>Input</key>
@@ -57,7 +57,7 @@
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>All-%NAME%-%version%</string>
+                <string>%NAME%-%version%</string>
                 <key>pkg_request</key>
                 <dict>
                     <key>pkgdir</key>
