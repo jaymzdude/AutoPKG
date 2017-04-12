@@ -17,7 +17,7 @@
             <key>CATEGORY</key>
             <string>Applications - Imported by AutoPKG</string>
             <key>POLICY_CATEGORY</key>
-            <string>ISEM - Standard Applications</string>
+            <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate-ISEM.xml</string>
             <key>ICON</key>
