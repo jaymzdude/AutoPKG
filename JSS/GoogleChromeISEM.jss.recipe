@@ -25,7 +25,7 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/ISEM-SmartGroupTemplate.xml</string>
             <key>GROUP_NAME</key>
-            <string>ISEM - Standard Applications</string>
+            <string>ISEM - Latest Google Chrome</string>
             <key>DESCRIPTION</key>
             <string>Web Browser</string>
         </dict>
