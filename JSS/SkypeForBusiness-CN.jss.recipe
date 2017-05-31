@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Uses parent pkg recipe to download the most recent ESR release of Firefox and imports it into the JSS.</string>
+        <string>Uses parent pkg recipe to download the most recent release of Skype for Business and imports it into the JSS.</string>
         <key>Identifier</key>
         <string>com.github.jaymzdude.jss.SkypeForBusiness-CN</string>
         <key>Input</key>
