@@ -24,9 +24,9 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/Firefox.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate-CN.xml</string>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-CN-ApplicationOutdated.xml</string>
             <key>GROUP_NAME</key>
-            <string>CN - %NAME% Outdated</string>
+            <string>CN - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
             <string>Web Browser</string>
         </dict>
