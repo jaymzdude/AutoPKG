@@ -38,12 +38,8 @@
             <dict>
                 <key>Arguments</key>
                 <dict> 
-                    <key>Comment</key>
-		            <string>Note: PlistReader without variable injection in AutoPkg requires setting "version" input key to an empty string, as below.</string>
-		            <key>version</key>
-                    <string></string>
-                    <!--<key>version</key>
-                    <string>%version%</string>-->
+                    <key>version</key>
+                    <string>%version%</string>
                     <key>prod_name</key>
                     <string>%NAME%</string>
                     <key>jss_inventory_name</key>
