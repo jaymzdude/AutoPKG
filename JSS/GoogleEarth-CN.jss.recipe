@@ -27,7 +27,7 @@
             <key>GROUP_NAME</key>
             <string>CN - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
-            <string>Satellite Imagery</string>
+            <string>Google Earth lets you fly anywhere on Earth to view satellite imagery, maps, terrain, 3D buildings, from galaxies in outer space to the canyons of the ocean.</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.4.0</string>
