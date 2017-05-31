@@ -26,7 +26,7 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate-CN-Outdated-NotInstalled.xml</string>
             <key>GROUP_NAME</key>
-            <string>ISEM - AutoPKG Testing</string>
+            <string>CN - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
             <string>Web Browser</string>
         </dict>
