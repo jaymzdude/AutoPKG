@@ -17,11 +17,11 @@
             <key>POLICY_CATEGORY</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>POLICY_TEMPLATE</key>
-            <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
+            <string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
             <key>ICON</key>
             <string>%RECIPE_DIR%/Dropbox.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/StaticGroupTemplate.xml</string>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
             <key>GROUP_NAME</key>
             <string>ISEM - AutoPKG Testing</string>
             <key>DESCRIPTION</key>
