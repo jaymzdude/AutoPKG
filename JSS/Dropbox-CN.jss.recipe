@@ -16,7 +16,7 @@
             <key>CATEGORY</key>
             <string>Applications - Imported by AutoPKG</string>
             <key>POLICY_CATEGORY</key>
-            <string>CN - Cuurent Software Downloads</string>
+            <string>CN - Current Application Installers</string>
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate-CN.xml</string>
             <key>ICON</key>
