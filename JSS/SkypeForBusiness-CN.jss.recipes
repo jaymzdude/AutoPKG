@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Description</key>
+        <string>Uses parent pkg recipe to download the most recent ESR release of Firefox and imports it into the JSS.</string>
+        <key>Identifier</key>
+        <string>com.github.jaymzdude.jss.SkypeForBusiness-CN</string>
+        <key>Input</key>
+        <dict>
+            <key>SITE</key>
+            <string>Community Network</string>
+            <key>NAME</key>
+            <string>Skype for Business</string>
+            <key>JSS_INVENTORY_NAME</key>
+            <string>Skype for Business.app</string>            
+            <key>CATEGORY</key>
+            <string>Applications - Imported by AutoPKG</string>
+            <key>POLICY_CATEGORY</key>
+            <string>CN - Current Application Installers</string>
+            <key>POLICY_TEMPLATE</key>
+            <string>%RECIPE_DIR%/PolicyTemplate-CN-Featured.xml</string>
+            <key>ICON</key>
+            <string>%RECIPE_DIR%/Skype.png</string>
+            <key>GROUP_TEMPLATE</key>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-CN-Outdated-NotInstalled.xml</string>
+            <key>GROUP_NAME</key>
+            <string>CN - %NAME% Outdated or Not Installed</string>
+            <key>DESCRIPTION</key>
+            <string>Skype for Business is the current Microsoft-supported chat client formerly known as Lync.</string>
+        </dict>
+        <key>MinimumVersion</key>
+        <string>0.4.0</string>
+        <key>ParentRecipe</key>
+        <string>com.github.novaksam.pkg.SkypeForBusiness</string>
+        <key>Process</key>
+        <array>
+            <dict>
+                <key>Arguments</key>
+                <dict> 
+                    <key>version</key>
+                    <string>%version%</string>
+                    <key>prod_name</key>
+                    <string>%NAME%</string>
+                    <key>jss_inventory_name</key>
+                    <string>%JSS_INVENTORY_NAME%</string>                    
+                    <key>category</key>
+                    <string>%CATEGORY%</string>
+                    <key>policy_category</key>
+                    <string>%POLICY_CATEGORY%</string>
+                    <key>policy_template</key>
+                    <string>%POLICY_TEMPLATE%</string>
+                    <key>self_service_icon</key>
+                    <string>%ICON%</string>
+                    <key>self_service_description</key>
+                    <string>%DESCRIPTION%</string>
+                    <key>groups</key>
+                    <array>
+                        <dict>
+                            <key>SITE</key>
+                            <string>%SITE%</string> 
+                            <key>name</key>
+                            <string>%GROUP_NAME%</string>
+                            <key>smart</key>
+                            <true/>
+                            <key>template_path</key>
+                            <string>%GROUP_TEMPLATE%</string>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Processor</key>
+                <string>JSSImporter</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
