@@ -8,6 +8,7 @@
         <enabled>true</enabled>
         <trigger>USER_INITIATED</trigger>
         <trigger_checkin>false</trigger_checkin>
+        <trigger_other>%PROD_NAME%</trigger_other>
         <frequency>Ongoing</frequency>
         <!-- <frequency>Once per computer</frequency> -->
         <category>
