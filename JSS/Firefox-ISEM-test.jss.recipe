@@ -23,7 +23,7 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
             <key>GROUP_NAME</key>
-            <string>ISEM - AutoPKG Testing</string>
+            <string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
             <string>Web Browser</string>
         </dict>
