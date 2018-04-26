@@ -35,7 +35,8 @@ installer for the given CHANNEL. 'latest-standalone' does not support
 <!--        <key>LOCALE_ID</key>
         <string>1033</string>  -->
         <key>NAME</key>
-        <string>MSWord2016</string>
+<!--        <string>MSWord2016</string>          -->
+        <string>Microsoft Word</string>
         <key>VERSION</key>
         <string>latest</string>
     </dict>
