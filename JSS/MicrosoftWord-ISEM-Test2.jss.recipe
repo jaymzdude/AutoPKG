@@ -41,7 +41,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jaymzdude.pkg.MicrosoftWord2016</string>
+	<string>com.github.jaymzdude.download.MicrosoftWord2016</string>
 	<key>Process</key>
 	<array>
 		<dict>
