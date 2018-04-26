@@ -26,7 +26,7 @@ installer for the given CHANNEL. 'latest-standalone' does not support
 'InsiderFast' CHANNEL.
 </string>
     <key>Identifier</key>
-    <string>com.github.jaymzdude.download.MicrosoftWord2016</string>
+    <string>com.github.jaymzdude.download.MSWord2016</string>
     <key>MinimumVersion</key>
     <string>0.4.2</string>
     <key>Input</key>
