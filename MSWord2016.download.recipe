@@ -32,9 +32,9 @@ installer for the given CHANNEL. 'latest-standalone' does not support
     <dict>
         <key>CHANNEL</key>
         <string>Production</string>
-        <key>LOCALE_ID</key>
-<!--        <string>1033</string>
-        <key>NAME</key> -->
+<!--        <key>LOCALE_ID</key>
+        <string>1033</string>  -->
+        <key>NAME</key>
         <string>MSWord2016</string>
         <key>VERSION</key>
         <string>latest</string>
