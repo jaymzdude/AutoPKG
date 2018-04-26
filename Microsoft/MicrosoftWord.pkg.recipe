@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>com.github.jaymzdude.pkg.MSWord2016</string>
+	<key>Description</key>
+	<string>Uses parent download recipe com.github.autopkg.download.MSWord2016
+	to download the latest Word 2016 installer package.
+  
+  This override renames the package to "Microsoft Word-$version" and hopefully removes the locale information.
+	</string>
+	<key>Input</key>
+	<dict>
+  		  <key>CHANNEL</key>
+		    <string>Production</string>
+<!--		    <key>LOCALE_ID</key>
+		    <string>1033</string>  -->
+		    <key>NAME</key>
+		    <string>Microsoft Word</string>
+		    <key>VERSION</key>
+		    <string>latest</string>
+	</dict>
+	<key>MinimumVersion</key>
+	<string>0.4.1</string>
+	<key>ParentRecipe</key>
+	<string>com.github.autopkg.download.MSWord2016</string>
+	<key>Process</key>
+	<array>
+        <dict>
+            <key>Processor</key>
+            <string>PkgCopier</string>
+            <key>Arguments</key>
+            <dict>
+                <key>source_pkg</key>
+                <string>%pathname%</string>
+                <key>pkg_path</key>
+                <string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
