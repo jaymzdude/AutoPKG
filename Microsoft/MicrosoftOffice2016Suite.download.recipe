@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest Word 2016 multilingual update pkg,
+    <string>Downloads the latest Office 2016 multilingual installer
 and appends the version to the end of the filename.
 
 CHANNEL can be set to several values in order to get more frequent updates
