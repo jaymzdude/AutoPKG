@@ -25,14 +25,14 @@
 	<string>com.github.jaymzdude.jss.MicrosoftAutoUpdate-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
-    <key>SITE</key>
-    <string>ISEM - Test Site</string>
+    		<key>SITE</key>
+    		<string>ISEM - Test Site</string>
 		<key>CATEGORY</key>
 		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
 		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
-    <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+    		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
 		<string>Microsoft AutoUpdate</string>
 		<key>OS_REQUIREMENTS</key>
@@ -40,7 +40,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-    <string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+    		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Microsoft AutoUpdate will update all components of the Microsoft Office Suite.</string>
 		<key>SELF_SERVICE_ICON</key>
