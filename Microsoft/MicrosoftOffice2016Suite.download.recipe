@@ -43,7 +43,7 @@ installer for the given CHANNEL. 'latest-standalone' does not support
     <array>
         <dict>
             <key>Processor</key>
-            <string>MSOffice2016URLandUpdateInfoProvider</string>
+            <string>com.github.autopkg.MSOfficeUpdates/MSOffice2016URLandUpdateInfoProvider</string>
             <key>Arguments</key>
             <dict>
                 <key>channel</key>
