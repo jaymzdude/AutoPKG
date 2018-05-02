@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.nmcspadden.pkg.appstore</string>
+	<string>com.github.novaksam.pkg.MicrosoftRemoteDesktop</string>
 	<key>Process</key>
 	<array>
 		<dict>
