@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Checks for Microsoft Remote Desktop update, packages, and adds to the JSS</string>
+	<string>Checks for macOS High Sierra update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.MacOSHighSierra-ISEM-Test</string>
+	<string>com.github.jaymzdude.jss.macOSHighSierra-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 <!--    <key>SITE</key>
@@ -27,7 +27,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>macOS High Sierra is the current Mac operating system from Apple.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>Microsoft Remote Desktop.png</string>
+		<string>macOS High Sierra.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
