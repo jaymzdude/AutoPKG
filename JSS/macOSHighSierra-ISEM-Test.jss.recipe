@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Microsoft Remote Desktop update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.MacOSHighSierra</string>
+	<string>com.github.jaymzdude.jss.MacOSHighSierra-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
@@ -18,8 +18,8 @@
 		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
 		<string>Install macOS High Sierra</string>
-<!--		<key>OS_REQUIREMENTS</key>
-		<string>10.13.x,10.12.x,10.11.x,10.10.x,10.9.x</string> -->
+		<key>OS_REQUIREMENTS</key>
+		<string>10.13.x,10.12.x,10.11.x,10.10.x,10.9.x</string>
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
