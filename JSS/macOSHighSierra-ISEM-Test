@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Microsoft Remote Desktop update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.MicrosoftRemoteDesktop</string>
+	<string>com.github.jaymzdude.jss.MacOSHighSierra</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
