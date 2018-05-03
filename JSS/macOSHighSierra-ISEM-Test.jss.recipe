@@ -23,7 +23,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>macOS High Sierra is the current Mac operating system from Apple.</string>
 		<key>SELF_SERVICE_ICON</key>
