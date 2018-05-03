@@ -26,8 +26,8 @@
 		<string>>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>macOS High Sierra is the current Mac operating system from Apple.</string>
-<!--		<key>SELF_SERVICE_ICON</key>
-		<string>Microsoft Remote Desktop.png</string>  -->
+		<key>SELF_SERVICE_ICON</key>
+		<string>Microsoft Remote Desktop.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
