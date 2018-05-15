@@ -5,25 +5,25 @@
         <key>Description</key>
         <string>Uses parent download recipe to download the latest unlicensed Microsoft Office 2016 installer package and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.jaymzdude.jss.MicrosoftOffice2016Suite-ISEM-Test</string>
+        <string>com.github.jaymzdude.jss.MicrosoftOffice2016-CN-NoSelfService</string>
         <key>Input</key>
         <dict>
             <key>SITE</key>
-            <string>ISEM - Test Site</string>
+            <string>Community Network</string>
             <key>CATEGORY</key>
             <string>Applications - Imported by AutoPKG</string>
             <key>GROUP_NAME</key>
-            <string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
+            <string>CN - %NAME% Outdated or Not Installed</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-CN-Outdated-NotInstalled.xml</string>
             <key>NAME</key>
             <string>Microsoft Office 2016</string>
             <key>OS_REQUIREMENTS</key>
             <string>10.13.x,10.12.x,10.11.x,10.10.x</string>
             <key>POLICY_CATEGORY</key>
-            <string>ISEM - AutoPKG Testing</string>
+            <string>CN - Current Application Installers</string>
             <key>POLICY_TEMPLATE</key>
-            <string>%RECIPE_DIR%/PolicyTemplate-ISEM-TEST-MSOffice2016Suite.xml</string>
+            <string>%RECIPE_DIR%/PolicyTemplate-CN-MSOffice2016Suite-NoSelfServe.xml</string>
             <key>ICON</key>
             <string>%RECIPE_DIR%/Microsoft Office.png</string>
             <key>DESCRIPTION</key>
