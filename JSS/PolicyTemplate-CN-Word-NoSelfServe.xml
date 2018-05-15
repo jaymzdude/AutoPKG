@@ -4,7 +4,7 @@
             <!-- <id>%SITE_ID%</id> -->
             <name>Community Network</name>
         </site>
-        <name>ISEM - Install Latest %PROD_NAME%</name>
+        <name>CN - Install Latest %PROD_NAME%</name>
         <enabled>true</enabled>
         <!-- <trigger>USER_INITIATED</trigger> -->
         <trigger_checkin>false</trigger_checkin>
