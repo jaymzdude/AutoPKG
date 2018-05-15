@@ -24,10 +24,10 @@
             <string>CN - Current Application Installers</string>
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate-CN-MSOffice2016Suite-NoSelfServe.xml</string>
-            <!-- <key>ICON</key>
+            <key>ICON</key>
             <string>%RECIPE_DIR%/Microsoft Office.png</string>
             <key>DESCRIPTION</key>
-            <string>Office 2016 is a software suite for word processing, spreadsheets, presentations, graphics and more.</string> -->
+            <string>Office 2016 is a software suite for word processing, spreadsheets, presentations, graphics and more.</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.4.1</string>
