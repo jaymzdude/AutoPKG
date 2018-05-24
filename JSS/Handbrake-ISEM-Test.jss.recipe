@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest Handbrake disk image, creates a package and uploads it to the jss.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.HandBrake</string>
+	<string>com.github.jaymzdude.jss.HandBrake-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     		<key>SITE</key>
