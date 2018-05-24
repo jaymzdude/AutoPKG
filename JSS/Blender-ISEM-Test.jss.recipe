@@ -6,7 +6,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Blender and builds a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.Blender</string>
+	<string>com.github.jaymzdude.jss.Blender-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
       		<key>SITE</key>
