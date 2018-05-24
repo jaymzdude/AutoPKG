@@ -25,7 +25,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>FileZilla is a fast and reliable cross-platform FTP, FTPS and SFTP client.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>Filezilla.png</string>
+		<string>FileZilla.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
