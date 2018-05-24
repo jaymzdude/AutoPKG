@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads latest RStudio disk image and builds a package, uploads to JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.RStudio</string>
+	<string>com.github.jaymzdude.jss.RStudio-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
           <key>SITE</key>
