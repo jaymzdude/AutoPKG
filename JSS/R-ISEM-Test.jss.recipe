@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for updates for R for Mac OS X (also known as "The R Project for Statistical Computing"), packages, and adds to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.R</string>
+	<string>com.github.jaymzdude.jss.R-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
           <key>SITE</key>
