@@ -24,8 +24,8 @@
     <scripts>
         <!--Scripts added by JSSImporter-->
         <script>
-        <id>319</id>
-        <name>ISEM - Remove Normal.dotm from User Template and all existing profiles</name>
+        <id>330</id>
+        <name>ISEM - Rename Normal.dotm</name>
         <priority>Before</priority>
         <parameter4/>
         <parameter5/>
