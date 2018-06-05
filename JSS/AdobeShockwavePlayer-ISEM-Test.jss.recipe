@@ -38,13 +38,13 @@
 			<dict>
 				<key>category</key>
 				<string>%CATEGORY%</string>
-				<key>extension_attributes</key>
+<!--				<key>extension_attributes</key>
 				<array>
 					<dict>
 						<key>ext_attribute_path</key>
 						<string>Adobe Shockwave PlayerExtensionAttribute.xml</string>
 					</dict>
-				</array>
+				</array>  -->
 				<key>groups</key>
 				<array>
 					<dict>
