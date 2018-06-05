@@ -60,8 +60,6 @@
 				<string>%POLICY_CATEGORY%</string>
 				<key>policy_template</key>
 				<string>%POLICY_TEMPLATE%</string>
-				<key>policy_trigger</key>
-				<string>%POLICY_TRIGGER%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
 				<key>self_service_description</key>
