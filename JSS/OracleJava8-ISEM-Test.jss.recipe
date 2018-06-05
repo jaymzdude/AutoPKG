@@ -51,13 +51,13 @@
 			<dict>
 				<key>category</key>
 				<string>%CATEGORY%</string>
-				<key>extension_attributes</key>
+<!--				<key>extension_attributes</key>
 				<array>
 					<dict>
 						<key>ext_attribute_path</key>
 						<string>Oracle Java 8ExtensionAttribute.xml</string>
 					</dict>
-				</array>
+				</array> -->
 				<key>groups</key>
 				<array>
 					<dict>
@@ -75,8 +75,6 @@
 				<string>%POLICY_CATEGORY%</string>
 				<key>policy_template</key>
 				<string>%POLICY_TEMPLATE%</string>
-				<key>policy_trigger</key>
-				<string>%POLICY_TRIGGER%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
 				<key>self_service_description</key>
