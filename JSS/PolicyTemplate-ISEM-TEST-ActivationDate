@@ -4,7 +4,7 @@
             <!-- <id>%SITE_ID%</id> -->
             <name>ISEM - Test Site</name>
         </site>
-        <name>ISEM - TEST - Install Latest %PROD_NAME%</name>
+        <name>ISEM - TEST - Install Latest %PROD_NAME% - Scheduled</name>
         <enabled>true</enabled>
         <trigger>USER_INITIATED</trigger>
         <trigger_checkin>false</trigger_checkin>
