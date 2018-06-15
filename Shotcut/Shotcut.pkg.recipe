@@ -52,7 +52,7 @@
             </dict>
         </dict>
         <dict>
-            <key>Processor</key>
+            <!-- <key>Processor</key>
             <string>PkgInfoCreator</string>
             <key>Arguments</key>
             <dict>
@@ -62,7 +62,7 @@
                 <string>%RECIPE_CACHE_DIR%/PackageInfo</string>
                 <key>pkgtype</key>
                 <string>flat</string>
-            </dict>
+            </dict> -->
             <!-- <key>Processor</key>
             <string>PlistReader</string>
             <key>Arguments</key>
