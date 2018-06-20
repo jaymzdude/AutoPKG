@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for updates for Shotcut, packages, and adds to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss./Shotcut/Shotcut-ISEM-Test</string>
+	<string>com.github.jaymzdude.jss.Shotcut-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     		<key>SITE</key>
