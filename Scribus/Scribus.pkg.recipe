@@ -65,8 +65,8 @@
                 <key>pkgtype</key>
                 <string>flat</string>
             </dict>
-        </dict>
-        <dict>   -->
+        </dict>  -->
+        <dict>  
         
 		<dict>
 			<key>Processor</key>
