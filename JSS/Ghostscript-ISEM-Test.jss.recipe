@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of MacTeX Ghostscript and then uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.MacTeXGhostscript-ISEM-Test</string>
+	<string>com.github.jaymzdude.jss.Ghostscript-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
@@ -17,7 +17,7 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
-		<string>MacTeX Ghostscript</string>
+		<string>Ghostscript</string>
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
@@ -25,7 +25,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Ghostscript an interpreter for the PostScript language and for PDF.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>MacTeXGhostscript.png</string>
+		<string>Ghostscript.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
