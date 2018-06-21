@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of MacTeX Ghostscript and then uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.MacTeXGhostscript</string>
+	<string>com.github.jaymzdude.jss.MacTeXGhostscript-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
