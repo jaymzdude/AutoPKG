@@ -66,8 +66,7 @@
                 <string>flat</string>
             </dict>
         </dict>  -->
-        <dict>  
-        
+    
 		<dict>
 			<key>Processor</key>
 			<string>PlistReader</string>
