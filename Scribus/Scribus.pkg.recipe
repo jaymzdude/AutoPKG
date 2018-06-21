@@ -39,7 +39,7 @@
 				<key>source_path</key>
 				<string>%pathname%/Scribus.app</string>
 				<key>destination_path</key>
-				<string>%pkgroot%/Applications/%NAME%</string>
+				<string>%pkgroot%/Applications/Scribus.app</string>
 				<key>purge_destination</key>
 				<true/>
 			</dict>
