@@ -8,8 +8,8 @@
 	<string>com.github.jaymzdude.jss.Scribus-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
-    <key>SITE</key>
-    <string>ISEM - Test Site</string>
+    		<key>SITE</key>
+    		<string>ISEM - Test Site</string>
 		<key>CATEGORY</key>
 		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.gihub.jaymzdude.pkg.Scribus</string>
+	<string>com.github.jaymzdude.pkg.Scribus</string>
 	<key>Process</key>
 	<array>
 		<dict>
