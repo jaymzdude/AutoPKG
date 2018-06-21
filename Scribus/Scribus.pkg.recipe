@@ -51,7 +51,9 @@
                 <string>%pkgroot%/Applications/Scribus.app</string>
             </dict>
         </dict>
-        <dict>
+        
+        
+<!--        <dict>
             <key>Processor</key>
             <string>PkgInfoCreator</string>
             <key>Arguments</key>
@@ -64,7 +66,27 @@
                 <string>flat</string>
             </dict>
         </dict>
-        <dict>
+        <dict>   -->
+        
+		<dict>
+			<key>Processor</key>
+			<string>PlistReader</string>
+			<key>Arguments</key>
+			<dict>
+				<key>info_path</key>
+				<string>%pkgroot%/Applications/%NAME%/blender.app</string>
+				<key>plist_keys</key>
+				<dict>
+					<key>CFBundleIdentifier</key>
+					<string>bundleid</string>
+					<key>CFBundleName</key>
+					<string>app_name</string>
+				</dict>
+			</dict>
+         </dict>        
+        
+<!--        
+        
             <key>Processor</key>
             <string>PkgCreator</string>
             <key>Arguments</key>
@@ -93,7 +115,40 @@
                         </dict>
                     </array>
                 </dict>
-            </dict>
+            </dict>   -->
+
+			<key>Processor</key>
+			<string>PkgCreator</string>
+			<key>Arguments</key>
+			<dict>
+				<key>pkg_request</key>
+				<dict>
+					<key>pkgname</key>
+					<string>%NAME%-%version%</string>
+					<key>version</key>
+					<string>%version%</string>
+					<key>id</key>
+					<string>%bundleid%</string>
+					<key>options</key>
+					<string>purge_ds_store</string>
+					<key>chown</key>
+					<array>
+						<dict>
+							<key>path</key>
+							<string>Applications</string>
+							<key>user</key>
+							<string>root</string>
+							<key>group</key>
+							<string>admin</string>
+							<key>mode</key>
+							<string>0755</string>
+						</dict>
+					</array>
+				</dict>
+             </dict>
+            
+            
+            
         </dict>
     </array>
 </dict>
