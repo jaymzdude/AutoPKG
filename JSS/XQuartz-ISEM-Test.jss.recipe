@@ -10,8 +10,8 @@
 	<dict>
     <key>SITE</key>
     <string>ISEM - Test Site</string>
-		<key>Applications - Imported by AutoPKG</key>
-		<string>Computer Science</string>
+		<key>CATEGORY</key>
+		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
 		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
