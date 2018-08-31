@@ -51,7 +51,7 @@
 				<string>%pkgroot%/Applications/%NAME%.app</string>
 			</dict>
 		</dict>
-		<dict>
+<!--		<dict>
 			<key>Processor</key>
 			<string>GIMPPermissionsFixer</string>
 			<key>Arguments</key>
@@ -59,7 +59,7 @@
 				<key>gimp_app_path</key>
 				<string>%pkgroot%/Applications/%NAME%.app</string>
 			</dict>
-		</dict>
+		</dict>    -->
 		<dict>
 			<key>Processor</key>
 			<string>PkgCreator</string>
