@@ -53,7 +53,7 @@
 		</dict>
 		<dict>
 			<key>Processor</key>
-			<string>com.github.hjuutilainen.GIMPPermissionsFixer/GIMPPermissionsFixer</string>
+			<string>io.github.hjuutilainen.GIMPPermissionsFixer/GIMPPermissionsFixer</string>
 			<key>Arguments</key>
 			<dict>
 				<key>gimp_app_path</key>
