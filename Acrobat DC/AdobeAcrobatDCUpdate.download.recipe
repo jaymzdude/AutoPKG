@@ -28,8 +28,8 @@ Set MAJOR_VERSION to "Acrobat2015" to download the 'Classic Track' updates for a
 				<string>%LANGUAGE%</string>
 				<key>major_version</key>
 				<string>%MAJOR_VERSION%</string>
-				<key>os_version</key>
-				<string>%OS_VERSION%</string>
+			<!--	<key>os_version</key>
+				<string>%OS_VERSION%</string>  -->
 			</dict>
 			<key>Processor</key>
 			<string>com.github.autopkg.novaksam-recipes.Processors/AdobeAcrobatDcUpdateInfoProvider</string>
