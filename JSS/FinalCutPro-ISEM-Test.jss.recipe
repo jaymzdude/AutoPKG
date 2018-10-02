@@ -17,13 +17,11 @@
 		<key>NAME</key>
 		<string>Final Cut Pro</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Testing</string>
+		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplate.xml</string>
-		<key>POLICY_TRIGGER</key>
-		<string>Install_FinalCutPro</string>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Install the latest version of %NAME%.</string>
+		<string>Install the latest version of Final Cut Pro.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>Final Cut Pro.png</string>
 	</dict>
