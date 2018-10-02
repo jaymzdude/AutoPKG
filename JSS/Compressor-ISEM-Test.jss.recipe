@@ -8,6 +8,8 @@
 	<string>com.github.jaymzdude.jss.Compressor</string>
 	<key>Input</key>
 	<dict>
+		<key>SITE</key>
+		<string>ISEM - Test Site</string>
 		<key>CATEGORY</key>
 		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
