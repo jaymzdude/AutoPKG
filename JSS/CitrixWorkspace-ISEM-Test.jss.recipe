@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads updated Citrix Workspace, creates a package and imports it into the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.citrixworkspace</string>
+	<string>com.github.jaymzdude.jss.CitrixWorkspace-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
