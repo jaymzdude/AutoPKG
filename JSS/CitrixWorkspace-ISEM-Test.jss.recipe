@@ -21,8 +21,8 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplate.xml</string>
-		<key>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</key>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Citrix Workspace provides access to XenDesktop and XenApp.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%RECIPE_DIR%/CitrixWorkspace.png</string>
