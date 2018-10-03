@@ -4,7 +4,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Checks for Motion update, packages, and adds to the JSS</string>
+	<string>Checks for DesiGN for iBooks - Templates update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
 	<string>com.github.jaymzdude.jss.DesiGNforiBooksTemplates-ISEM-Test</string>
 	<key>Input</key>
