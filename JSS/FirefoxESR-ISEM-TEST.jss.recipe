@@ -6,7 +6,7 @@
         <key>Description</key>
         <string>Uses parent pkg recipe to download the most recent ESR release of Firefox and imports it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.jaymzdude.jss.FirefoxESR</string>
+        <string>com.github.jaymzdude.jss.FirefoxESR-ISEM-Test</string>
         <key>Input</key>
         <dict>
             <key>SITE</key>
