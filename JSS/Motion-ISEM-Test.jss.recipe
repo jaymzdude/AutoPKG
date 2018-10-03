@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Motion update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.Motion</string>
+	<string>com.github.jaymzdude.jss.Motion-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
