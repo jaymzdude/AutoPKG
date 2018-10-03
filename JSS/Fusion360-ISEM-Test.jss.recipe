@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Checks for Fusion360 update, packages, and adds to the JSS</string>
+	<key>Identifier</key>
+	<string>com.github.jaymzdude.jss.Fusion360</string>
+	<key>Input</key>
+	<dict>
+		<key>SITE</key>
+		<string>ISEM - Test Site</string>
+		<key>CATEGORY</key>
+		<string>Applications - Imported by AutoPKG</string>
+		<key>GROUP_NAME</key>
+		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+		<key>NAME</key>
+		<string>Fusion360</string>
+		<key>POLICY_CATEGORY</key>
+		<string>ISEM - AutoPKG Testing</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
+		<string>Fusion 360 is a 3D CAD, CAM, and CAE tool that connects your entire product development process in a single cloud-based platform that works on both Mac and PC.</string>
+		<key>SELF_SERVICE_ICON</key>
+		<string>Fusion360.png</string>
+	</dict>
+	<key>MinimumVersion</key>
+	<string>0.4.0</string>
+	<key>ParentRecipe</key>
+	<string>com.github.nmcspadden.pkg.appstore</string>
+	<key>Process</key>
+	<array>
+		<dict>
+			<key>Arguments</key>
+			<dict>
+				<key>category</key>
+				<string>%CATEGORY%</string>
+				<key>groups</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>%GROUP_NAME%</string>
+						<key>smart</key>
+						<true/>
+						<key>template_path</key>
+						<string>%GROUP_TEMPLATE%</string>
+					</dict>
+				</array>
+<!--				<key>os_requirements</key>
+				<string>%OS_REQUIREMENTS%</string>  -->
+				<key>policy_category</key>
+				<string>%POLICY_CATEGORY%</string>
+				<key>policy_template</key>
+				<string>%POLICY_TEMPLATE%</string>
+				<key>prod_name</key>
+				<string>%NAME%</string>
+				<key>self_service_description</key>
+				<string>%SELF_SERVICE_DESCRIPTION%</string>
+				<key>self_service_icon</key>
+				<string>%SELF_SERVICE_ICON%</string>
+			</dict>
+			<key>Processor</key>
+			<string>JSSImporter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
