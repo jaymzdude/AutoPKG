@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Oracle Java 8 installer and extracts the embedded package, uploads to JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.OracleJava8</string>
+	<string>com.github.jaymzdude.jss.OracleJava8-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
