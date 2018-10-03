@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Adobe Shockwave Player installer and extracts the embedded package, uploads to JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.AdobeShockwavePlayer</string>
+	<string>com.github.jaymzdude.jss.AdobeShockwavePlayer-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
     <key>SITE</key>
