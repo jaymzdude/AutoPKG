@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Keynote update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.Keynote</string>
+	<string>com.github.jaymzdude.jss.Keynote-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
