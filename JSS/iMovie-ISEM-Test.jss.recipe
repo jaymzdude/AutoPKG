@@ -6,7 +6,7 @@
 	<key>Description</key>
 	<string>Checks for iMovie update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.iMovie</string>
+	<string>com.github.jaymzdude.jss.iMovie-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
