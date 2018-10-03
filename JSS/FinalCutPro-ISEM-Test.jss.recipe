@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Final Cut Pro update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.FinalCutPro</string>
+	<string>com.github.jaymzdude.jss.FinalCutPro-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
