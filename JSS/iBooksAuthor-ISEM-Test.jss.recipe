@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for iBooks Author update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.iBooksAuthor</string>
+	<string>com.github.jaymzdude.jss.iBooksAuthor-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
