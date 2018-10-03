@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Checks for Fusion360 update, packages, and adds to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.Fusion360</string>
+	<string>com.github.jaymzdude.jss.Fusion360-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 		<key>SITE</key>
