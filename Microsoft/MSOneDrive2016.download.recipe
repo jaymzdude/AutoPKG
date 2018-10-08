@@ -17,7 +17,7 @@
     </dict>
     <key>Process</key>
     <array>
-        <dict>
+<!--        <dict>
             <key>Processor</key>
             <string>com.github.autopkg.autopkg.recipes.MSOfficeUpdates/MSOffice2016URLandUpdateInfoProvider</string>
             <key>Arguments</key>
@@ -31,7 +31,7 @@
                 <key>version</key>
                 <string>%VERSION%</string>
             </dict>
-        </dict>        
+        </dict>  -->      
         <dict>
             <key>Processor</key>
             <string>URLDownloader</string>
