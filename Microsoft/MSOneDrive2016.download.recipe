@@ -19,13 +19,27 @@
     <array>
         <dict>
             <key>Processor</key>
+            <string>com.github.autopkg.recipes.MSOfficeUpdates/MSOffice2016URLandUpdateInfoProvider</string>
+            <key>Arguments</key>
+            <dict>
+                <key>channel</key>
+                <string>%CHANNEL%</string>
+                <key>locale_id</key>
+                <string>%LOCALE_ID%</string>
+                <key>product</key>
+                <string>Outlook</string>
+                <key>version</key>
+                <string>%VERSION%</string>
+        </dict>        
+        <dict>
+            <key>Processor</key>
             <string>URLDownloader</string>
             <key>Arguments</key>
             <dict>
                 <key>url</key>
                 <string>%URL%</string>
                 <key>filename</key>
-                <string>%NAME%.pkg</string>
+                <string>%NAME%-%VERSION%.pkg</string>
             </dict>
         </dict>
         <dict>
