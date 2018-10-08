@@ -19,7 +19,7 @@
     <array>
         <dict>
             <key>Processor</key>
-            <string>com.github.autopkg.recipes.MSOfficeUpdates/MSOffice2016URLandUpdateInfoProvider.py</string>
+            <string>com.github.autopkg.autopkg.recipes.MSOfficeUpdates/MSOffice2016URLandUpdateInfoProvider.py</string>
             <key>Arguments</key>
             <dict>
                 <key>channel</key>
