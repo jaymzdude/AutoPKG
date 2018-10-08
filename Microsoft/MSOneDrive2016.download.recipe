@@ -30,6 +30,7 @@
                 <string>Outlook</string>
                 <key>version</key>
                 <string>%VERSION%</string>
+            </dict>
         </dict>        
         <dict>
             <key>Processor</key>
