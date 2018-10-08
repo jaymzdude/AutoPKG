@@ -24,7 +24,7 @@
 		<key>GROUP_NAME</key>
 		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
-    <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+    		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
 		<string>Microsoft OneDrive</string>
 		<key>OS_REQUIREMENTS</key>
@@ -32,7 +32,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-    <string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+    		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>OneDrive is a file hosting service and synchronization service operated by Microsoft as part of its suite of Office Online services</string>
 		<key>SELF_SERVICE_ICON</key>
@@ -41,7 +41,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jaymzdude.download.MSOneNote2016</string>
+	<string>com.github.jaymzdude.download.MSOneDrive2016</string>
 	<key>Process</key>
 	<array>
 		<dict>
