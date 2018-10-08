@@ -25,7 +25,7 @@ installer for the given CHANNEL. 'latest-standalone' does not support
 'InsiderFast' CHANNEL.
 </string>
     <key>Identifier</key>
-    <string>com.github.jaymzdude.download.MSOutlook2016</string>
+    <string>com.github.jaymzdude.download.MSOneDrive2016</string>
     <key>MinimumVersion</key>
     <string>0.4.2</string>
     <key>Input</key>
@@ -35,7 +35,7 @@ installer for the given CHANNEL. 'latest-standalone' does not support
         <key>LOCALE_ID</key>
         <string>1033</string>
         <key>NAME</key>
-        <string>MSOneNote2016</string>
+        <string>MSOneDrive2016</string>
         <key>VERSION</key>
         <string>latest</string>
     </dict>
@@ -51,7 +51,7 @@ installer for the given CHANNEL. 'latest-standalone' does not support
                 <key>locale_id</key>
                 <string>%LOCALE_ID%</string>
                 <key>product</key>
-                <string>OneNote</string>
+                <string>OneDrive</string>
                 <key>version</key>
                 <string>%VERSION%</string>
             </dict>
