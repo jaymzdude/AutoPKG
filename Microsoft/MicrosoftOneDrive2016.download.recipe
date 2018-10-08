@@ -13,8 +13,8 @@
     <dict>
         <key>CHANNEL</key>
         <string>Production</string>
-        <key>LOCALE_ID</key>
-        <string>1033</string>
+<!--        <key>LOCALE_ID</key>
+        <string>1033</string>  -->
         <key>NAME</key>
         <string>MSOneDrive2016</string>
         <key>VERSION</key>
@@ -29,8 +29,8 @@
             <dict>
                 <key>channel</key>
                 <string>%CHANNEL%</string>
-                <key>locale_id</key>
-                <string>%LOCALE_ID%</string>
+<!--                <key>locale_id</key>
+                <string>%LOCALE_ID%</string>  -->
                 <key>product</key>
                 <string>OneDrive</string>
                 <key>version</key>
