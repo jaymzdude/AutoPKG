@@ -20,13 +20,15 @@
          <string>525133</string>
          <key>DOWNLOADURL</key>
          <string>https://go.microsoft.com/fwlink/?linkid=%PRODUCTID%</string>
+         <key>FILENAME</key>
+         <string>%filename%</string>
       </dict>
       <key>Process</key>
       <array>
-         <dict>
+<!--         <dict>
             <key>Processor</key>
             <string>com.github.autopkg.office-recipes.Office2016Suite-SKUless/OfficeSuiteSKULessVersionProvider</string>
-         </dict>
+         </dict>   -->
          <dict>
             <key>Processor</key>
             <string>URLDownloader</string>
@@ -35,7 +37,7 @@
                <key>url</key>
                <string>%DOWNLOADURL%</string>
                <key>filename</key>
-               <string>%NAME%-%version%.pkg</string>
+               <string>%filename%</string>
             </dict>
          </dict>
          <dict>
