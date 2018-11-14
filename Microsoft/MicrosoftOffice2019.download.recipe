@@ -15,7 +15,7 @@
          <key>VENDOR</key>
          <string>Microsoft</string>
          <key>SOFTWARETITLE</key>
-         <string>Ofiice 2019</string>
+         <string>Office 2019</string>
          <key>PRODUCTID</key>
          <string>525133</string>
          <key>DOWNLOADURL</key>
@@ -25,13 +25,17 @@
       <array>
          <dict>
             <key>Processor</key>
+            <string>OfficeSuiteSKULessVersionProvider</string>
+         </dict>
+         <dict>
+            <key>Processor</key>
             <string>URLDownloader</string>
             <key>Arguments</key>
             <dict>
                <key>url</key>
                <string>%DOWNLOADURL%</string>
-<!--               <key>filename</key>
-               <string>%VENDOR%_%SOFTWARETITLE%.pkg</string>  -->
+               <key>filename</key>
+               <string>%VENDOR% %SOFTWARETITLE%-%version%.pkg</string>
             </dict>
          </dict>
          <dict>
