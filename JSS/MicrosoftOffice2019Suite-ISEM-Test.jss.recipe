@@ -27,7 +27,7 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/Microsoft Office.png</string>
             <key>DESCRIPTION</key>
-            <string>Office 2016 is a software suite for word processing, spreadsheets, presentations, graphics and more.</string>
+            <string>Office 2019 is a software suite for word processing, spreadsheets, presentations, graphics and more.</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.4.1</string>
