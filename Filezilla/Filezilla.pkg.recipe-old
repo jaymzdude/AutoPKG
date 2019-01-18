@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest FileZilla and creates a package.</string>
     <key>Identifier</key>
-    <string>com.github.jaymzdude.pkg.FileZilla</string>
+    <string>com.github.jaymzdude.pkg.FileZilla-old</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
