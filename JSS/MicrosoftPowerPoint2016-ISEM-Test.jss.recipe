@@ -14,7 +14,7 @@
 		VERSION currently only supports 'latest'.
 		Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jaymzdude.jss.MicrosoftPowerPoint-ISEM-Test</string>
+	<string>com.github.jaymzdude.jss.MicrosoftPowerPoint2016-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
 <key>SITE</key>
