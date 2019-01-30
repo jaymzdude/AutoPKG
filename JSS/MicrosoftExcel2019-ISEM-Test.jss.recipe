@@ -5,13 +5,15 @@
         <key>Description</key>
         <string>Uses parent download recipe to download the latest unlicensed Microsoft Excel for Office 365 installer package and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.jaymzdude.jss.microsoftexcel2019</string>
+        <string>com.github.jaymzdude.jss.microsoftexcel2019-ISEM-Test</string>
         <key>Input</key>
         <dict>
             <key>SITE</key>
             <string>ISEM - Test Site</string>
             <key>NAME</key>
-            <string>Microsoft Excel</string>
+            <string>Microsoft Excel 2019</string>
+            <key>JSS_INVENTORY_NAME</key>
+            <string>Firefox.app</string>
             <key>CATEGORY</key>
             <string>Applications - Imported by AutoPKG</string>
             <key>POLICY_CATEGORY</key>
