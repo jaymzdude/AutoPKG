@@ -23,7 +23,8 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/Microsoft Excel.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+            <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-TEST-Office2019Apps-Outdated.xml
+</string>
             <key>GROUP_NAME</key>
             <string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
