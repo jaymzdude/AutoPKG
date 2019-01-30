@@ -38,8 +38,8 @@
             <name>%PROD_NAME% - Office Version</name>
             <priority>3</priority>
             <and_or>and</and_or>
-            <search_type>is</search_type>
-            <value>Office 2019</value>
+            <search_type>is not</search_type>
+            <value>Office 2016</value>
         </criterion>
     </criteria>
 </computer_group>
