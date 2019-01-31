@@ -38,8 +38,8 @@
             <dict>
                 <key>Arguments</key>
                 <dict>
-                    <key>version</key>
-                    <string>%version%</string>                    
+<!--                    <key>version</key>
+                    <string>%version%</string>                    -->
                     <key>prod_name</key>
                     <string>%NAME%</string>
                     <key>jss_inventory_name</key>
@@ -57,8 +57,8 @@
                     <key>groups</key>
                     <array>
                         <dict>
-                            <key>SITE</key>
-                            <string>%SITE%</string>                            
+<!--                            <key>SITE</key>
+                            <string>%SITE%</string>                            -->
                             <key>name</key>
                             <string>%GROUP_NAME%</string>
                             <key>smart</key>
