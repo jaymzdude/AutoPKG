@@ -55,6 +55,8 @@
                     <key>groups</key>
                     <array>
                         <dict>
+                            <key>SITE</key>
+                            <string>%SITE%</string>                            
                             <key>name</key>
                             <string>%GROUP_NAME%</string>
                             <key>smart</key>
