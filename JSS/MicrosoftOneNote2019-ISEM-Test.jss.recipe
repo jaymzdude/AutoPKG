@@ -25,7 +25,7 @@
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-TEST-Office2019Apps-Outdated.xml</string>
             <key>GROUP_NAME</key>
-            <string>UISEM - TEST - %NAME% Outdated or Not Installed</string>
+            <string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
             <key>DESCRIPTION</key>
             <string>Microsoft OneNote allows free-form information gathering and multi-user collaboration. It gathers users' notes (handwritten or typed), drawings, screen clippings and audio commentaries.</string>
         </dict>
