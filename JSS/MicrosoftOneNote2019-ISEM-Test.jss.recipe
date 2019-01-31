@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Uses parent download recipe to download the latest unlicensed Microsoft OneNote for Office 365 installer package and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.jaymzdude.jss.microsoftonenote365</string>
+        <string>com.github.jaymzdude.jss.MicrosoftOnenote2019-ISEM-Test</string>
         <key>Input</key>
         <dict>
             <key>SITE</key>
