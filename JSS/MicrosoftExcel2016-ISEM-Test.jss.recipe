@@ -24,7 +24,7 @@
 		<key>GROUP_NAME</key>
 		<string>ISEM - TEST - %NAME% 2016 Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-TEST-Office2016Apps-Outdated.xml</string>
 		<key>NAME</key>
 		<string>Microsoft Excel</string>
 <!-- <key>JSS_INVENTORY_NAME</key>
