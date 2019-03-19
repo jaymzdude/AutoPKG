@@ -26,7 +26,7 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
-		<string>Microsoft Excel 2016</string>
+		<string>Microsoft Excel</string>
 <!-- <key>JSS_INVENTORY_NAME</key>
 <string>Microsoft Excel</string>		-->
 		<key>OS_REQUIREMENTS</key>
