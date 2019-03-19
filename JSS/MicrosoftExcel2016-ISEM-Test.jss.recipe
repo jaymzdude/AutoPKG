@@ -26,7 +26,9 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
 		<key>NAME</key>
-		<string>Microsoft Excel</string>
+		<string>Microsoft Excel 2016</string>
+<key>JSS_INVENTORY_NAME</key>
+<string>Microsoft Excel</string>		
 		<key>OS_REQUIREMENTS</key>
 		<string>10.16.x,10.15.x,10.14.x,10.13.x,10.12.x,10.11.x,10.10.x</string>
 		<key>POLICY_CATEGORY</key>
@@ -103,6 +105,8 @@
 				<string>%POLICY_TEMPLATE%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
+<key>jss_inventory_name</key>
+<string>%JSS_INVENTORY_NAME%</string> 				
 				<key>self_service_description</key>
 				<string>%SELF_SERVICE_DESCRIPTION%</string>
 				<key>self_service_icon</key>
