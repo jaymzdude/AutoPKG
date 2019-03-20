@@ -34,7 +34,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-TEST-MSOffice2016Apps.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Microsoft Excel is a spreadsheet application.</string>
 		<key>SELF_SERVICE_ICON</key>
