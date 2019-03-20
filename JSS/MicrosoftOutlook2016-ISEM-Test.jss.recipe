@@ -22,9 +22,9 @@
 		<key>CATEGORY</key>
 		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
-		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
+		<string>ISEM - TEST - %NAME% 2016 Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
-    <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
+                <string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-TEST-Office2016Apps-Outdated.xml</string>
 		<key>NAME</key>
 		<string>Microsoft Outlook</string>
 		<key>OS_REQUIREMENTS</key>
@@ -32,8 +32,8 @@
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
-    <key>SELF_SERVICE_DESCRIPTION</key>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-TEST-MSOffice2016Apps.xml</string>
+                <key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Microsoft Outlook is a comprehensive personal information manager. Although often used as an email app, it also includes a calendar, task manager, contact manager, and many other features.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>Microsoft Outlook.png</string>
