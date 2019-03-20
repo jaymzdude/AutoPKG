@@ -17,23 +17,23 @@
 	<string>com.github.jaymzdude.jss.MicrosoftPowerPoint2016-ISEM-Test</string>
 	<key>Input</key>
 	<dict>
-<key>SITE</key>
-<string>ISEM - Test Site</string>	
+                <key>SITE</key>
+                <string>ISEM - Test Site</string>	
 		<key>CATEGORY</key>
 		<string>Applications - Imported by AutoPKG</string>
 		<key>GROUP_NAME</key>
-		<string>ISEM - TEST - %NAME% Outdated or Not Installed</string>
+		<string>ISEM - TEST - %NAME% 2016 Outdated or Not Installed</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-Test.xml</string>
-    <key>NAME</key>
+		<string>%RECIPE_DIR%/SmartGroupTemplate-ISEM-TEST-Office2016Apps-Outdated.xml</string>
+                <key>NAME</key>
 		<string>Microsoft PowerPoint</string>
 		<key>OS_REQUIREMENTS</key>
 		<string>10.16.x,10.15.x,10.14.x,10.13.x,10.12.x,10.11.x,10.10.x</string>
 		<key>POLICY_CATEGORY</key>
 		<string>ISEM - AutoPKG Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-Test.xml</string>
-    <key>SELF_SERVICE_DESCRIPTION</key>
+		<string>%RECIPE_DIR%/PolicyTemplate-ISEM-TEST-MSOffice2016Apps.xml</string>
+                <key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Microsoft PowerPoint allows the creation and presentation of professional slide decks.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>Microsoft PowerPoint.png</string>
