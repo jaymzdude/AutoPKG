@@ -1,0 +1,45 @@
+<computer_group>
+    <site>
+         <!-- <id>%site_id%</id> -->
+        <name>IS Endpoint Management - Labs</name>
+    </site>
+    <name>%group_name%</name>
+    <is_smart>true</is_smart>
+    <criteria>
+       <!-- <criterion>
+            <name>Application Title</name>
+            <priority>0</priority>
+            <and_or>and</and_or>
+            <search_type>is</search_type>
+            <value>%PROD_NAME%</value>
+        </criterion> -->
+        <criterion>
+            <name>%JSS_INVENTORY_NAME% Version</name>
+            <priority>0</priority>
+            <and_or>and</and_or>
+            <search_type>is not</search_type>
+            <value>%VERSION%</value>
+        </criterion>
+        <criterion>
+            <name>%JSS_INVENTORY_NAME% Version</name>
+            <priority>1</priority>
+            <and_or>and</and_or>
+            <search_type>is not</search_type>
+            <value></value>
+        </criterion>
+        <criterion>
+            <name>%JSS_INVENTORY_NAME% Version</name>
+            <priority>2</priority>
+            <and_or>and</and_or>
+            <search_type>is not</search_type>
+            <value>Not installed</value>
+        </criterion>
+        <criterion>
+            <name>%JSS_INVENTORY_NAME% - Office Version</name>
+            <priority>3</priority>
+            <and_or>and</and_or>
+            <search_type>is not</search_type>
+            <value>Office 2016</value>
+        </criterion>
+    </criteria>
+</computer_group>
