@@ -4,11 +4,11 @@
             <!-- <id>%SITE_ID%</id> -->
             <name>Community Network</name>
         </site>
-        <name>CN - Install Latest %PROD_NAME% 2019</name>
+        <name>CN - Install Latest %PROD_NAME%</name>
         <enabled>true</enabled>
         <trigger>USER_INITIATED</trigger>
         <trigger_checkin>false</trigger_checkin>
-        <trigger_other>autoupdate-%PROD_NAME% 2019</trigger_other>
+        <trigger_other>autoupdate-%PROD_NAME%</trigger_other>
         <frequency>Ongoing</frequency>
         <!-- <frequency>Once per computer</frequency> -->
         <category>
