@@ -1,9 +1,8 @@
-<!-- This is not an active recipe. Need to figure out how to get this to pull only the web plugin from the 
-     listed download site (DOWNLOAD_URL). That site has both the latest versions of the app and the plugin. -->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!-- This is not an active recipe. Need to figure out how to get this to pull only the web plugin from the 
+     listed download site (DOWNLOAD_URL). That site has both the latest versions of the app and the plugin. -->
 <dict>
     <key>Description</key>
     <string>Downloads latest VLC Web Plugin disk image.</string>
